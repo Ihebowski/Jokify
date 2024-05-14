@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "411971193819",
+    "firebase_url": "https://jokify-655ce-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "jokify-655ce",
+    "storage_bucket": "jokify-655ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411971193819:android:368014d3ece1121c48f5fe",
+        "android_client_info": {
+          "package_name": "dev.ihebowski.jokify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA84HgsyvAxQIhqvqXD9niIPgMz-Mu6Jjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
